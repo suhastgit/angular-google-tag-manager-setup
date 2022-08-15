@@ -335,15 +335,19 @@
     </ul>
   
 
+</div>
+<div class="content">
+  <h2>Navigation links here to navigate to different pages</h2>
+  <a [routerLink]="['/']" routerLinkActive="router-link-active">Go home</a>
+ <a [routerLink]="['/examplepath1']" routerLinkActive="router-link-active">Go to component 1</a>
+ <a [routerLink]="['/examplepath2']" routerLinkActive="router-link-active">Go to component 2</a>
+ <a [routerLink]="['/examplepath3']" routerLinkActive="router-link-active">Go to component 3</a>
+</div>
+<div class="content">
 
- 
-
-
-
-
-
+  <router-outlet></router-outlet>
 </div>
 
 
 
-<router-outlet></router-outlet>
+
