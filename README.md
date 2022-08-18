@@ -3,6 +3,9 @@ Demo for the google tag manager setup approach used on an Angular app as explain
 
 Visit the [blog post here](https://itbusinesshub.com/blog/integrate-google-tag-manager-in-angular-app/?utm_source='referral'&utm_medium='github').
 
+# Example console logs
+[!Image](/Demo/ExampleConsoleLogs.png)
+
 # AngularGoogleTagManagerSetup
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
